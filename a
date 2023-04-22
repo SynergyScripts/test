@@ -1,3 +1,0 @@
-function msg(a)
-print(a)
-end
